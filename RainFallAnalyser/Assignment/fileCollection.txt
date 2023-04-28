@@ -1,0 +1,2 @@
+Mount Sheridan,MountSheridanStationCNS.csv,MountSheridanStationCNSAnalysed.csv
+Cairns Severin,CairnsSeverinSt.csv,CairnsSeverinStAnalysed.csv
